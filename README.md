@@ -1,4 +1,4 @@
-# RealNex-SplitView-by-cremattsd - Cancary Versions 11.21
+# RealNex-SplitView-by-cremattsd - Canary Versions 11.21
 Allows Split Screen Contacts to Properties 
 
 How to install (don’t be dumb)
